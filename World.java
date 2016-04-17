@@ -6,5 +6,6 @@ public class World{
 		String str3 = ""; // add
 		String str4 = ""; // add
 
+		String str5 = "Add this line and commit to github.";
 	}
 }
