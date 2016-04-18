@@ -6,5 +6,7 @@ public class Hello{
 		System.out.println("Modify");
 
 		System.out.println("Add this line and commit to github.");
+
+		System.out.println(“测试分支操作”);
 	}
 }
