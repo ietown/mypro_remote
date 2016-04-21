@@ -8,5 +8,6 @@ public class Hello{
 		System.out.println("Add this line and commit to github.");
 
 		System.out.println(“把这里改成冲突内容”);
+		System.out.println(“在br3分支上，修改成冲突内容	”);
 	}
 }
