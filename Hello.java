@@ -7,6 +7,6 @@ public class Hello{
 
 		System.out.println("Add this line and commit to github.");
 
-		System.out.println(“测试分支操作”);
+		System.out.println(“在br3分支上，修改成冲突内容	”);
 	}
 }
